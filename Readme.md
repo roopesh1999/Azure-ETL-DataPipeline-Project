@@ -27,7 +27,7 @@ The pipeline integrates the following components:
 
 ## Architecture Diagram
 
-*(Insert a diagram showing the data flow: SQL Server → ADF → Data Lake Gen2 (Bronze, Silver, Gold) → Databricks → Synapse → Power BI.)*
+*I will insert this later*
 
 ---
 
